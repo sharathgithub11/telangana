@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'webag'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_ab874a82da6a45efa1480a576ad8f0cc }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_642beec2034d4b588953ef32b80c7437 }}
         package: .
